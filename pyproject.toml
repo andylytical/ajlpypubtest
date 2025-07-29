@@ -12,7 +12,6 @@ description = "AJl python publishing tester"
 keywords = []
 authors = [
   {name = "Andy Loftus", email = "aloftus@gmail.com"},
-  {name = "Warren Smith"},
 ]
 requires-python = ">=3.6"
 license-files = ["LICEN[CS]E*"]
